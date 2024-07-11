@@ -24,7 +24,7 @@ This is a simple Flappy Bird game implemented in Python using the Pygame library
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-palaashshah/flappy-bird-game.git
+   git clone https://github.com/your-palaashshah/Flappy-Bird.git
    ```
 
 2. Navigate into the project directory:
