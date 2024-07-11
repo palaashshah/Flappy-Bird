@@ -1,5 +1,6 @@
 ```markdown
 # Flappy Bird Game
+```
 
 
 This is a simple Flappy Bird game implemented in Python using the Pygame library. The game includes a bird that the player can control to avoid pipes and score points by passing through gaps between them.
@@ -23,7 +24,7 @@ This is a simple Flappy Bird game implemented in Python using the Pygame library
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flappy-bird-game.git
+   git clone https://github.com/your-palaashshah/flappy-bird-game.git
    ```
 
 2. Navigate into the project directory:
@@ -66,5 +67,3 @@ Contributions are welcome! Here's how you can contribute to this project:
 
 - Inspired by the classic Flappy Bird game.
 - Built using Python and Pygame.
-
-```
