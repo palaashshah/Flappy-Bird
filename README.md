@@ -1,6 +1,4 @@
-```markdown
-# Flappy Bird Game
-```
+# Flappy Bird
 
 
 This is a simple Flappy Bird game implemented in Python using the Pygame library. The game includes a bird that the player can control to avoid pipes and score points by passing through gaps between them.
